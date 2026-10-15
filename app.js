@@ -1,4 +1,4 @@
-import { createClient } from "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/+esm";
+import { createClient } from "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.117.2/+esm";
 import { SUPABASE_URL, SUPABASE_ANON_KEY } from "./config.js";
 
 const GENRES = ["Novela","Policial y suspenso","Ciencia ficción","Fantasía","Romance","Clásicos","Cuentos","Poesía","Historia","Biografía y memorias","Ensayo","Negocios y economía","Psicología y autoayuda","Ciencia","Infantil y juvenil","Otro"];
